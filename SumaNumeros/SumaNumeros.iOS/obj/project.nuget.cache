@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gp956aU0aJLiooCyh6NneTXsKmAVGq9JatW3HtQ6IA1D6NhTczMCtmqrDAst0whpDFTty52ByRVPWbQtldogtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Programacion\\source\\repos\\SumaNumeros\\SumaNumeros\\SumaNumeros.iOS\\SumaNumeros.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Programacion\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Programacion\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Programacion\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
